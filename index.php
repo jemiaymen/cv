@@ -603,7 +603,13 @@
                                                                             <span class="w8qArf">
                                                                                 <a class="fl" data-ved="2ahUKEwixhcrIn5bkAhXBXRUIHfoADIwQ6BMoADAmegQIEBAG" href="#">Born</a>:
                                                                             </span>
-                                                                            <span class="LrzXr kno-fv">December 6, 1986 (age 32&nbsp;years),
+                                                                            <span class="LrzXr kno-fv">December 6, 1986 (age <script>function age(dob) { 
+                var diff_ms = Date.now() - dob.getTime();
+                var age_dt = new Date(diff_ms); 
+            
+                return Math.abs(age_dt.getUTCFullYear() - 1970);
+            }
+document.write( age(new Date(1986, 6, 12)) ); </script>&nbsp;years),
                                                                                 <a class="fl" href="#">Manzah, Tunis, Tunisia</a>
                                                                             </span>
                                                                         </div>
@@ -687,7 +693,7 @@
                 </div>
             </div>
         </div>
-
+        
 
     </body>
 
