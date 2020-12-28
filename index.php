@@ -4,6 +4,7 @@
     <head>
         <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
         <meta content="origin" name="referrer">
+        <meta name="viewport" content="width=device-width , initial-scale=1" />
         <title>Aymen Jemi - Search</title>
 
 
@@ -189,21 +190,22 @@
                                         <div data-ved="0ahUKEwiGrq_81I3kAhXBsaQKHQokAZMQGggp">
                                             <h1 class="bNg8Rb">Search Results</h1>
                                             <div data-async-context="query:jemix" eid="W-tZXcaUOsHjkgWKyISYCQ" id="rso">
+                                                
+                                                
                                                 <div class="bkWMgd">
                                                     <h2 class="bNg8Rb">Web results</h2>
                                                     <div class="srg">
                                                         
-
                                                         <div class="g">
                                                             <div>
                                                                 <div class="rc">
                                                                     <div class="r">
-                                                                        <a target="_blank" href="http://www.isg.rnu.tn/content/informatique-de-gestion">
+                                                                        <a target="_blank" href="https://devmix.tn">
                                                                             <h3 class="LC20lb">
-                                                                                <div class="ellip">Education｜BSc in Computer Science at (ISG)</div>
+                                                                                <div class="ellip">Education｜MSc Data Science Internship at (DEVMIX)</div>
                                                                             </h3><br>
                                                                             <div class="TbwUpd">
-                                                                                <cite class="iUh30">isg.rnu.tn/content/informatique-de-gestion</cite>
+                                                                                <cite class="iUh30">devmix.tn</cite>
                                                                             </div>
                                                                         </a>
                                                                         <span>
@@ -217,13 +219,7 @@
                                                                     <div class="s">
                                                                         <div>
                                                                             <span class="st">
-                                                                                <em>Bachelor's Degree </em> in <em>Computer Science</em> , 
-                                                                                The aim of the Bachelor's Degree in Computer Science is to train in three years, skills mastering fundamental concepts and modern technologies, able to support engineers in several areas such as:
-
-																				<em>Analysis </em>, design and implementation of information systems
-																				Knowledge and <em>computerization</em> of business management processes
-																				<em>Control</em> and monitoring of a computer project in all phases of its life cycle
-                                                                                <wbr>.
+                                                                                Title : <em>Create Text Corpus and Sentimentanalysis with BERT for Tunisian Dialect</em> The goal of this project was to create a <em> Tunisia Corpus (TC) </em> and a sentiment analysis model with <em> BERT </em>. We achieved this by using a modified Arabert architecture fine-tuned on TC data and <em> hybrid machine translation approach </em> with <em> LSTM </em> and <em> GRU </em> for translation, our Transliteration model achieve <em> 0.96 accuracy </em> in validation.
                                                                             </span>
                                                                         </div>
                                                                     </div>
@@ -264,9 +260,42 @@
                                                             </div>
                                                         </div>
 
+                                                        <div class="g">
+                                                            <div>
+                                                                <div class="rc">
+                                                                    <div class="r">
+                                                                        <a target="_blank" href="http://www.isg.rnu.tn/content/informatique-de-gestion">
+                                                                            <h3 class="LC20lb">
+                                                                                <div class="ellip">Education｜BSc in Computer Science at (ISG)</div>
+                                                                            </h3><br>
+                                                                            <div class="TbwUpd">
+                                                                                <cite class="iUh30">isg.rnu.tn/content/informatique-de-gestion</cite>
+                                                                            </div>
+                                                                        </a>
+                                                                        <span>
+                                                                            <div class="action-menu ab_ctl">
+                                                                                <a aria-expanded="false" aria-haspopup="true" aria-label="Result options" class="GHDvEf ab_button" href="#" role="button">
+                                                                                    <span class="mn-dwn-arw"></span>
+                                                                                </a>
+                                                                            </div>
+                                                                        </span>
+                                                                    </div>
+                                                                    <div class="s">
+                                                                        <div>
+                                                                            <span class="st">
+                                                                                <em>Bachelor's Degree </em> in <em>Computer Science</em> , 
+                                                                                The aim of the Bachelor's Degree in Computer Science is to train in three years, skills mastering fundamental concepts and modern technologies, able to support engineers in several areas such as:
 
-                                                        
-
+																				<em>Analysis </em>, design and implementation of information systems
+																				Knowledge and <em>computerization</em> of business management processes
+																				<em>Control</em> and monitoring of a computer project in all phases of its life cycle
+                                                                                <wbr>.
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
 
                                                     </div>
                                                 </div>
@@ -604,12 +633,13 @@
                                                                                 <a class="fl" data-ved="2ahUKEwixhcrIn5bkAhXBXRUIHfoADIwQ6BMoADAmegQIEBAG" href="#">Born</a>:
                                                                             </span>
                                                                             <span class="LrzXr kno-fv">December 6, 1986 (age <script>function age(dob) { 
-                var diff_ms = Date.now() - dob.getTime();
-                var age_dt = new Date(diff_ms); 
-            
-                return Math.abs(age_dt.getUTCFullYear() - 1970);
-            }
-document.write( age(new Date(1986, 6, 12)) ); </script>&nbsp;years),
+                                                                                                                                                var diff_ms = Date.now() - dob.getTime();
+                                                                                                                                                var age_dt = new Date(diff_ms); 
+                                                                                                                                            
+                                                                                                                                                return Math.abs(age_dt.getUTCFullYear() - 1970);
+                                                                                                                                            }
+                                                                                                                                            document.write( age(new Date(1986, 6, 12)) ); 
+                                                                                                                            </script>&nbsp;years),
                                                                                 <a class="fl" href="#">Manzah, Tunis, Tunisia</a>
                                                                             </span>
                                                                         </div>
