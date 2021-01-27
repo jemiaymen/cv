@@ -32,7 +32,7 @@
                         <div class="RNNXgb" jsname="RNNXgb">
                             <div class="SDkEP">
                                 <div class="a4bIc" jsaction="h5M12e;input:d3sQLd;focus:dFyQEf;blur:jI3wzf" jscontroller="iDPoPb" jsname="gLFyf">
-                                    <div class="vdLsw gsfi" jsname="vdLsw"></div><input aria-autocomplete="both" aria-haspopup="false" aria-label="Search" autocapitalize="off" autocomplete="off" autocorrect="off" class="gLFyf gsfi" data-ved="0ahUKEwiGrq_81I3kAhXBsaQKHQokAZMQ39UDCAk" jsaction="paste:puy29d" maxlength="2048" name="q" role="combobox" spellcheck="false" title="Search" type="text" value="Aymen Jemi Data Scientist"></div>
+                                    <div class="vdLsw gsfi" jsname="vdLsw"></div><input aria-autocomplete="both" aria-haspopup="false" aria-label="Search" autocapitalize="off" autocomplete="off" autocorrect="off" class="gLFyf gsfi" data-ved="0ahUKEwiGrq_81I3kAhXBsaQKHQokAZMQ39UDCAk" jsaction="paste:puy29d" maxlength="2048" name="q" role="combobox" spellcheck="false" title="Search" type="text" value="Aymen Jemi"></div>
                                 <div class="dRYYxd">
                                     <div aria-label="Search by voice" class="JC0tCe" jsaction="h5M12e;rcuQ6b:npT2md" jscontroller="MC8mtf" role="button" tabindex="0">
                                         <span class="hb2Smf"></span>
@@ -219,7 +219,7 @@
                                                                     <div class="s">
                                                                         <div>
                                                                             <span class="st">
-                                                                                Title : <em>Create Text Corpus and Sentimentanalysis with BERT for Tunisian Dialect</em> The goal of this project was to create a <em> Tunisia Corpus (TC) </em> and a sentiment analysis model with <em> BERT </em>. We achieved this by using a modified Arabert architecture fine-tuned on TC data and <em> hybrid machine translation approach </em> with <em> LSTM </em> and <em> GRU </em> for translation, our Transliteration model achieve <em> 0.96 accuracy </em> in validation.
+                                                                                Title : <em>Create Text Corpus and Sentimentanalysis with BERT for Tunisian Dialect</em> The goal of this project was to create a <em> Tunisia Corpus (TC) </em> and a sentiment analysis model with <em> BERT </em>. We achieved this by using a modified Arabert architecture fine-tuned on TC data and <em> hybrid machine translation approach </em> with <em> LSTM </em> and <em> GRU </em> for transliteration, our Transliteration model achieve <em> 0.98 accuracy </em> in validation.
                                                                             </span>
                                                                         </div>
                                                                     </div>
@@ -619,7 +619,7 @@
                                                                             <div class="kno-rdesc r-i8uMXwbkyZbQ" data-rtid="i8uMXwbkyZbQ" jsaction="sngtp:r.Eddvt4h-GI8;tp_btn:r.Eddvt4h-GI8" jsl="$t t-JgTEvN6zUII;$x 0;">
                                                                                 <div>
                                                                                     <h3 class="bNg8Rb">Description</h3>
-                                                                                    <span>I'm an experienced data scientist and software engineer with a strong background in computer science, programming, machine learning, and statistics. My work spans the full spectrum from solving isolated data problems to building production systems that serve many of users.</span>
+                                                                                    <span>I'm an experienced data scientist and software engineer with a strong background in computer science, programming, machine learning, and statistics. </span>
 
                                                                                 </div>
                                                                             </div>
@@ -693,7 +693,7 @@
                                                                                 <a class="fl" data-ved="2ahUKEwixhcrIn5bkAhXBXRUIHfoADIwQ6BMoADAqegQIEBAV" href="#">Education</a>:
                                                                             </span>
                                                                             <span class="LrzXr kno-fv">
-                                                                                (2009)
+                                                                                (2010)
                                                                                 <a target="_blank" class="fl" data-ved="2ahUKEwixhcrIn5bkAhXBXRUIHfoADIwQmxMoATAqegQIEBAW" href="http://www.isg.rnu.tn/content/informatique-de-gestion">Hight Intitute of Management, Tunis</a>
                                                                                 (2018),
                                                                                 <a target="_blank" class="fl" data-ved="2ahUKEwixhcrIn5bkAhXBXRUIHfoADIwQmxMoAjAqegQIEBAX" href="https://www.esen.tn/portail/parcours/mastere-professionel-en-data-science-and-software-development-9.html">Higher School of Digital Economy, Manouba</a>
